@@ -2,13 +2,13 @@
 
 Welcome to the Research Reproducibility in R Workshop supported by the Penn State Libraries!
 
-Organizers
+**Organizers**
 
 - [Briana Ezray Wham](https://libraries.psu.edu/directory/bde125) - Research Data Librarian - STEM
 - [Jennifer Valcin](https://libraries.psu.edu/directory/jpv5319) - Statistical Data Analyst
 - [Tyler Bruce Garner](https://libraries.psu.edu/directory/tbg5023) - Graduate Assistant - Statistical Data Analysis Consultant
 
-Resources
+**Resources**
 
 - Data sets
 - Code
