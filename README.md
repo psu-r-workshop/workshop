@@ -10,6 +10,12 @@ Organizers
 - [Jennifer Valcin](https://libraries.psu.edu/directory/jpv5319) - Statistical Data Analyst
 - [Tyler Bruce Garner](https://libraries.psu.edu/directory/tbg5023) - Graduate Assistant - Statistical Data Analysis Consultant
 
+Resources
+
+- Data sets
+- Slides
+- Recordings
+
 <hr>
 
 ### Basics of R and RStudio — Monday, March 21, 1–2 p.m.
