@@ -11,3 +11,7 @@
 section{
   width: 1080px;
 }
+
+.inner{
+  max-width: 85%;
+}
