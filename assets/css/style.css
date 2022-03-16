@@ -5,13 +5,9 @@
 
 
 .wrapper{
-  width: 1600px;
+  width: 1180px;
 }
 
 section{
-  width: 1080px;
-}
-
-.inner{
-  max-width: 85%;
+  width: 820px;
 }
