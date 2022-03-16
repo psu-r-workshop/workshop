@@ -1,5 +1,3 @@
-<p align=center><h1>Research Reproducibility in R<br>Workshop</h1></p>
-
 ![Flier](assets/images/70CF419E-6207-43B5-961A-C33B374A4D20.jpeg)
 
 <hr>
