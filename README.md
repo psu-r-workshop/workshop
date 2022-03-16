@@ -1,8 +1,4 @@
-<p align=center>
-<h1>Research Reproducibility
-in R<br>
-Workshop</h1>
-</p>
+<p align=center><h1>Research Reproducibility in R<br>Workshop</h1></p>
 
 ### Basics of R and RStudio — Monday, March 21, 1–2 p.m.
 
