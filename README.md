@@ -10,16 +10,18 @@ Welcome to the Research Reproducibility in R Workshop supported by the Penn Stat
 
 **Resources**
 
-- Data sets
-- Code
-- Slides
-- Recordings
+- [Data sets]()
+- [Code]()
+- [Slides]()
+- [Recordings]()
 
 <hr>
 
 ### Basics of R and RStudio — Monday, March 21, 1–2 p.m.
 
 This session will introduce R and RStudio, walk through the platform interface, and discuss the utility of using the software for reproducible research practices. 
+
+[Schedule for office hours]()
 
 <hr>
 
