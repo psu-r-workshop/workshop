@@ -1,8 +1,4 @@
-|Home|Day 1|Day 2|
-
 ![Flier](assets/images/70CF419E-6207-43B5-961A-C33B374A4D20.jpeg)
-
-<hr>
 
 Welcome to the Research Reproducibility in R Workshop supported by the Penn State Libraries!
 
@@ -15,6 +11,7 @@ Organizers
 Resources
 
 - Data sets
+- Code
 - Slides
 - Recordings
 
