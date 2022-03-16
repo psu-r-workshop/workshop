@@ -1,33 +1,4 @@
-<div class="ui stackable menu grid">
-    <div class="ui text container ">
-
-
-        <a class="item" href="/">
-            <i class="home icon"></i> Home
-        </a>
-
-        <a class="item" href="#information">
-            <i class="info circle icon"></i> Info
-        </a>
-
-        <a class="item" href="#day-1">
-            <i class="calendar icon"></i> Day 1
-        </a>
-
-        <a class="item" href="#day-2">
-            <i class="calendar icon"></i> Day 2
-        </a>
-
-        <a class="item" href="#day-3">
-            <i class="calendar icon"></i> Day 3
-        </a>
-
-        <a class="item" target="_blank" href="https://portal.aci.ics.psu.edu/">
-          <i class="computer icon"></i> Interactive Desktop
-       </a>
-
-    </div>
-</div>
+|Home|Day 1|Day 2|
 
 ![Flier](assets/images/70CF419E-6207-43B5-961A-C33B374A4D20.jpeg)
 
