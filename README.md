@@ -1,8 +1,22 @@
 <p align=center><h1>Research Reproducibility in R<br>Workshop</h1></p>
 
+<hr>
+
+Welcome to the Research Reproducibility in R Workshop supported by the Penn State Libraries!
+
+Organizers
+
+- [Briana Ezray Wham](https://libraries.psu.edu/directory/bde125) - Research Data Librarian - STEM
+- [Jennifer Valcin](https://libraries.psu.edu/directory/jpv5319) - Statistical Data Analyst
+- [Tyler Bruce Garner](https://libraries.psu.edu/directory/tbg5023) - Graduate Assistant - Statistical Data Analysis Consultant
+
+<hr>
+
 ### Basics of R and RStudio — Monday, March 21, 1–2 p.m.
 
 This session will introduce R and RStudio, walk through the platform interface, and discuss the utility of using the software for reproducible research practices. 
+
+<hr>
 
 ### Data Wrangling in R — Wednesday, March 23, 1–3 p.m.
 
@@ -12,6 +26,8 @@ This overview of data wrangling will show you how to:
 - Wrangle (manage, clean and transform) data into tidy format or to create new variables
 - Handle string and date/time data
 - Find resources to support the analysis you would like to conduct
+
+<hr>
 
 ### Data Management and Research Reproducibility in RStudio — Wednesday, March 30, 1–3 p.m.
 
@@ -24,6 +40,8 @@ This session will provide an overview of data management strategies for a reprod
 
 Participants will apply data management and reproducibility strategies from previous workshops to their R workflow.
 
+<hr>
+
 ### Data Visualization in R — Wednesday, April 6, 1–3 p.m.
 
 This session focuses on data communication. Because sharing research results is a critical step in any research project, effective communication is vital. Tools such as RMarkdown and ggplot2 can be used to document data exploration, analysis and visualization steps and create meaningful data visualizations. This workshop will show you how to:
@@ -33,9 +51,13 @@ This session focuses on data communication. Because sharing research results is 
 
 Participants will use their reproducible, project-based data analysis workflow to apply data wrangling tasks learned in previous sessions to prepare data and create visualizations.
 
+<hr>
+
 ### Statistical Data Analysis in R — Wednesday, April 13, 1–3 p.m.
 
 Implementing statistical analyses to understand trends and differences in data is an important tool for effective research communication. This workshop will cover exploratory data analysis, including methods for testing hypotheses, computing confidence intervals and reporting results. Participants will test and apply their R programming skills to basic data analyses.
+
+<hr>
 
 ### Bring Your Data Day! — Wednesday, April 20, TBD
 
