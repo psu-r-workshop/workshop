@@ -1,8 +1,8 @@
-<head>
+
   <style>
     html {scroll-behavior: smooth;}
   </style>
-</head>
+
 
 <a name="Top"></a>
 
