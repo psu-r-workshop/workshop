@@ -4,6 +4,10 @@
 
 Welcome to the Research Reproducibility in R Workshop supported by the Penn State Libraries!
 
+This series will offer hands-on training in fundamental coding skills, statistical data analysis, data visualization and data management strategies to support research reproducibility. Participants can expect to learn how to wrangle data into an analysis-ready format, use R packages and connections to manage projects, use the ggplot2 package to create data visualizations, and implement statistical analyses to understand trends and differences in data.
+
+The workshops are open to Penn State graduate students, postdoctoral scholars, staff and faculty. No previous knowledge of R is required.
+
 **Schedule**
 
 | Session | Date | Time |
@@ -17,15 +21,6 @@ Welcome to the Research Reproducibility in R Workshop supported by the Penn Stat
 
 **Organizers**
 <br>
-
-<div>
-  <div style="float: left">
-    <img src="assets/images/briana_wham.jpg" width="200" height="250" />
-    </div>
-    <div>
-    Text content goes here
-  </div>
-</div>
 
 <img src="assets/images/briana_wham.jpg" width="200" height="250">
 
