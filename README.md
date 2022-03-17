@@ -74,7 +74,7 @@ This overview of data wrangling will overview the basics of RStudio and introduc
 
 <hr>
 
-<h4><span><a href="#Top"><img src="assets/images/up_arrow.png" width="40" height="29"></a></span></h4>
+<h4><a href="#Top"><img src="assets/images/up_arrow.png" width="40" height="29"></a></h4>
 
 <a id="Management"></a>
 ### Data Management and Research Reproducibility
