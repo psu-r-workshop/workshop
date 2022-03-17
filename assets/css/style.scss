@@ -12,11 +12,7 @@ section{
   width: 720px;
 }
 
-a::before {
-    display: block;
-    content: attr(title);
-    font-weight: bold;
-    height: 0;
-    overflow: hidden;
-    visibility: hidden;
+.faq .section p.quetn a, .faq .section p.quetn a:hover {
+    text-decoration:underline;
+    font-weight:bold
 }
