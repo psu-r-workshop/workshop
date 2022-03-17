@@ -22,6 +22,18 @@ The workshops are open to Penn State graduate students, postdoctoral scholars, s
 **Organizers**
 <br>
 
+<div style="display:inline-block;vertical-align:top;">
+<img src="assets/images/briana_wham.jpg" width="200" height="250" alt="img"/>
+</div>
+<div style="display:inline-block;">
+<p>
+Here goes the text content.
+</p>
+</div>
+
+
+
+
 <img src="assets/images/briana_wham.jpg" width="200" height="250">
 
 [Briana Ezray Wham](https://libraries.psu.edu/directory/bde125)<br>
