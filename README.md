@@ -15,13 +15,17 @@ Welcome to the Research Reproducibility in R Workshop supported by the Penn Stat
 - [Slides]()
 - [Recordings]()
 
+[Schedule an Appointment for Office Hours](https://outlook.office365.com/owa/calendar/RWorkshopSeriesOfficeHours@PennStateOffice365.onmicrosoft.com/bookings/s/hmg205E8LUKdnPoi-BVCGA2)
+
 <hr>
 
 ### Basics of R and RStudio — Monday, March 21, 1–2 p.m.
 
-This session will introduce R and RStudio, walk through the platform interface, and discuss the utility of using the software for reproducible research practices. 
+In this optional indroductory session we will:
 
-[Schedule for office hours]()
+- Introduce to R and RStudio
+- Walk through the platform interface
+- Discuss the utility of using the softwares for reproducible research
 
 <hr>
 
@@ -30,7 +34,7 @@ This session will introduce R and RStudio, walk through the platform interface, 
 This overview of data wrangling will show you how to:
 
 - Use basic indexing and functions such as setting a working directory and loading data and packages
-- Wrangle (manage, clean and transform) data into tidy format or to create new variables
+- Wrangle (manage, clean, and transform) data into tidy format or to create new variables
 - Handle string and date/time data
 - Find resources to support the analysis you would like to conduct
 
@@ -38,14 +42,14 @@ This overview of data wrangling will show you how to:
 
 ### Data Management and Research Reproducibility in RStudio — Wednesday, March 30, 1–3 p.m.
 
-This session will provide an overview of data management strategies for a reproducible analysis and output workflow to facilitate transparent and reproducible research and support open data sharing. Participants will learn:
+This session will provide an overview of data management strategies for a reproducible analysis and output workflow to facilitate transparent and reproducible research and support open data sharing. Topics include:
 
-- Best practices for code documentation, file organization, naming and versioning
+- Best practices for code documentation, file organization, naming, and versioning
 - How to connect RStudio to Git and GitHub
-- How to implement a reproducible, project-based data analysis and output workflow                                                                                       
+- How to implement a reproducible, project-based data analysis and output workflow                                                                                     
 - How to document data exploration, analysis and visualization in publishable documents using RMarkdown
 
-Participants will apply data management and reproducibility strategies from previous workshops to their R workflow.
+Additionally, data management and reproducibility strategies from the previous sessions will be applied to the R workflow.
 
 <hr>
 
