@@ -3,6 +3,7 @@
 
 @import "{{ site.theme }}";
 
+
 .wrapper{
   width: 1080px;
 }
@@ -17,11 +18,7 @@ a:hover {
 }
 
 .notbold{
-    font-weight:normal;
-}
-
-html {
-  scroll-behavior: smooth;
+    font-weight:normal
 }
 
 h4 {
@@ -35,4 +32,8 @@ h4 {
 h4 span { 
     background:#fff; 
     padding:0 10px; 
+}
+
+html {
+  scroll-behavior: smooth;
 }
