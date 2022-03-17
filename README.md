@@ -27,7 +27,8 @@ Welcome to the Research Reproducibility in R Workshop supported by the Penn Stat
 
 <hr>
 
-### <a id="Basics">Basics of R and RStudio</a>
+<a id="Basics"></a>
+### Basics of R and RStudio
 
 In this optional indroductory session we will:
 
