@@ -3,15 +3,6 @@
 
 @import "{{ site.theme }}";
 
-
-.wrapper{
-  width: 1080px;
-}
-
-section{
-  width: 720px;
-}
-
 a:hover {
     font-weight: normal;
     text-decoration: underline;
@@ -38,3 +29,12 @@ h4 span {
 html {
   scroll-behavior: smooth;
 }
+
+.wrapper{
+  width: 1080px;
+}
+
+section{
+  width: 720px;
+}
+
