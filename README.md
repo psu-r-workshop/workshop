@@ -38,7 +38,8 @@ In this optional indroductory session we will:
 
 <hr>
 
-### <a id="Wrangling">Data Wrangling</a>
+<a id="Wrangling"></a>
+### Data Wrangling
 
 This overview of data wrangling will show you how to:
 
@@ -49,7 +50,8 @@ This overview of data wrangling will show you how to:
 
 <hr>
 
-### <a id="Management">Data Management and Research Reproducibility</a>
+<a id="Management"></a>
+### Data Management and Research Reproducibility
 
 This session will provide an overview of data management strategies for a reproducible analysis and output workflow to facilitate transparent and reproducible research and support open data sharing. Topics include:
 
@@ -62,7 +64,8 @@ Additionally, data management and reproducibility strategies from the previous s
 
 <hr>
 
-### <a id="Visualization">Data Visualization</a>
+<a id="Visualization"></a>
+### Data Visualization
 
 This session focuses on data communication. Because sharing research results is a critical step in any research project, effective communication is vital. Tools such as RMarkdown and ggplot2 can be used to document data exploration, analysis and visualization steps and create meaningful data visualizations. This workshop will show you how to:
 
@@ -73,12 +76,14 @@ Participants will use their reproducible, project-based data analysis workflow t
 
 <hr>
 
-### <a id="Statistical">Statistical Data Analysis</a>
+<a id="Statistical"></a>
+### Statistical Data Analysis
 
 Implementing statistical analyses to understand trends and differences in data is an important tool for effective research communication. This workshop will cover exploratory data analysis, including methods for testing hypotheses, computing confidence intervals and reporting results. Participants will test and apply their R programming skills to basic data analyses.
 
 <hr>
 
-### <a id="Bring">Bring Your Data Day!</a>
+<a id="Bring"></a>
+### Bring Your Data Day!
 
 Workshop participants will have a chance to meet with the instructors and put their new skills to use by applying them to their own data.
