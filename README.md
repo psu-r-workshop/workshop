@@ -3,17 +3,15 @@
 Welcome to the Research Reproducibility in R Workshop supported by the Penn State Libraries!
 
 **Schedule**
-- <a href="#Basics">Monday, March 21, 1–2 p.m. — Basics of R and RStudio</a>
-- <a href="#Wrangling">Wednesday, March 23, 1–3 p.m. — Data Wrangling</a>
-- <a href="#Management">Wednesday, March 30, 1–3 p.m. — Data Management and Research Reproducibility </a>
-- <a href="#Visualization">Wednesday, April 6, 1–3 p.m. — Data Visualization </a>
-- <a href="#Statistical">Wednesday, April 13, 1–3 p.m. — Statistical Data Analysis</a>
-- <a href="#Bring">Wednesday, April 20, TBD — Bring Your Data Day!</a>
 
 | Session | Date |
 | ------- | ---- |
 | <a href="#Basics">Basics of R and RStudio</a> | Monday, March 21, 1–2 p.m. |
 | <a href="#Wrangling">Data Wrangling</a> | Wednesday, March 23, 1–3 p.m. |
+| <a href="#Management">Data Management and Research Reproducibility </a> | Wednesday, March 30, 1–3 p.m. |
+| <a href="#Visualization">Data Visualization </a> | Wednesday, April 6, 1–3 p.m. |
+| <a href="#Statistical">Statistical Data Analysis</a> | Wednesday, April 13, 1–3 p.m. |
+| <a href="#Bring">Bring Your Data Day!</a> | Wednesday, April 20, TBD |
 
 **Organizers**
 
