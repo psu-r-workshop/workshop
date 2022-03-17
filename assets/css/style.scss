@@ -11,7 +11,18 @@ section{
   width: 720px;
 }
 
+a:hover {
+    font-weight: normal;
+    text-decoration: underline;
+}
 
+.notbold{
+    font-weight:normal;
+}
+
+html {
+  scroll-behavior: smooth;
+}
 
 h4 {
    width: 100%; 
