@@ -13,12 +13,5 @@ section{
 }
 
 a {
-  letter-spacing: .1em;
-  transition: text-shadow .3s;
-}
-
-a:hover {
-  text-shadow: 0 0 .65px #333, 0 0 .65px #333;
-  /* use the line below if you want a more intense effect */
-  /* text-shadow: 0 0 .9px #333, 0 0 .9px #333, 0 0 .9px #333; */
+    font-weight: normal;
 }
