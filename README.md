@@ -21,17 +21,17 @@ Welcome to the Research Reproducibility in R Workshop supported by the Penn Stat
 <img src="assets/images/briana_wham.jpg" width="200" height="250">
 
 [Briana Ezray Wham](https://libraries.psu.edu/directory/bde125)<br>
-Research Data Librarian - STEM
+Research Data Librarian - STEM<br>
 
 <img src="assets/images/jennifer_valcin.jpg" width="200" height="220">
 
 [Jennifer Valcin](https://libraries.psu.edu/directory/jpv5319)<br>
-Statistical Data Analyst
+Statistical Data Analyst<br>
 
 <img src="assets/images/tyler_pic.jfif" width="200" height="200">
 
 [Tyler Bruce Garner](https://libraries.psu.edu/directory/tbg5023)<br>
-Graduate Assistant - Statistical Data Analysis Consultant
+Graduate Assistant - Statistical Data Analysis Consultant<br>
   
 </center>
 
