@@ -23,33 +23,35 @@ The workshops are open to Penn State graduate students, postdoctoral scholars, s
 <br>
 
 <div style="display:inline-block;vertical-align:top;">
-<img src="assets/images/briana_wham.jpg" width="200" height="250" alt="img"/>
+  <img src="assets/images/briana_wham.jpg" width="200" height="250" alt="img"/>
 </div>
 <div style="display:inline-block;">
-<p>
-Here goes the text content.
-</p>
+  <p>
+    [Briana Ezray Wham](https://libraries.psu.edu/directory/bde125)<br>
+    Research Data Librarian - STEM<br>
+  </p>
 </div>
 
-
-
-
-<img src="assets/images/briana_wham.jpg" width="200" height="250">
-
-[Briana Ezray Wham](https://libraries.psu.edu/directory/bde125)<br>
-Research Data Librarian - STEM<br>
-<br>
-  
-<img src="assets/images/jennifer_valcin.jpg" width="200" height="220">
-
-[Jennifer Valcin](https://libraries.psu.edu/directory/jpv5319)<br>
+<div style="display:inline-block;vertical-align:top;">
+  <img src="assets/images/jennifer_valcin.jpg" width="200" height="220" alt="img"/>
+</div>
+<div style="display:inline-block;">
+  <p>
+    [Jennifer Valcin](https://libraries.psu.edu/directory/jpv5319)<br>
 Statistical Data Analyst<br>
-<br>
-  
-<img src="assets/images/tyler_pic.jfif" width="200" height="200">
+  </p>
+</div>
 
-[Tyler Bruce Garner](https://libraries.psu.edu/directory/tbg5023)<br>
-Graduate Assistant - Statistical Data Analysis Consultant<br>
+<div style="display:inline-block;vertical-align:top;">
+  <img src="assets/images/tyler_pic.jfif" width="200" height="200" alt="img"/>
+</div>
+<div style="display:inline-block;">
+  <p>
+    [Tyler Bruce Garner](https://libraries.psu.edu/directory/tbg5023)<br>
+    Graduate Assistant - Statistical Data Analysis Consultant<br>
+  </p>
+</div>
+  
 <br>
 
 **Resources**
