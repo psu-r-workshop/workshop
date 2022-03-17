@@ -27,27 +27,31 @@ The workshops are open to Penn State graduate students, postdoctoral scholars, s
 </div>
 <div style="display:inline-block;">
   <p>
-    [Briana Ezray Wham](https://libraries.psu.edu/directory/bde125)<br>
+    <a href="https://libraries.psu.edu/directory/bde125">Briana Ezray Wham</a><br>
     Research Data Librarian - STEM<br>
   </p>
 </div>
+
+<br>
 
 <div style="display:inline-block;vertical-align:top;">
   <img src="assets/images/jennifer_valcin.jpg" width="200" height="220" alt="img"/>
 </div>
 <div style="display:inline-block;">
   <p>
-    [Jennifer Valcin](https://libraries.psu.edu/directory/jpv5319)<br>
-Statistical Data Analyst<br>
+    <a href="https://libraries.psu.edu/directory/jpv5319">Jennifer Valcin</a><br>
+    Statistical Data Analyst<br>
   </p>
 </div>
+
+<br>
 
 <div style="display:inline-block;vertical-align:top;">
   <img src="assets/images/tyler_pic.jfif" width="200" height="200" alt="img"/>
 </div>
 <div style="display:inline-block;">
   <p>
-    [Tyler Bruce Garner](https://libraries.psu.edu/directory/tbg5023)<br>
+    <a href="https://libraries.psu.edu/directory/tbg5023">Tyler Bruce Garner</a><br>
     Graduate Assistant - Statistical Data Analysis Consultant<br>
   </p>
 </div>
