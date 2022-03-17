@@ -16,7 +16,7 @@ Welcome to the Research Reproducibility in R Workshop supported by the Penn Stat
 | <a href="#Bring">Bring Your Data Day!</a> | Wednesday, April 20 | TBD |
 
 **Organizers**
-<br>
+<br><center>
 
 <img src="assets/images/briana_wham.jpg" width="200" height="250">
 
@@ -29,6 +29,7 @@ Welcome to the Research Reproducibility in R Workshop supported by the Penn Stat
 <img src="assets/images/tyler_pic.jfif" width="200" height="200">
 
 [Tyler Bruce Garner](https://libraries.psu.edu/directory/tbg5023) - Graduate Assistant - Statistical Data Analysis Consultant
+</center>
 
 **Resources**
 
