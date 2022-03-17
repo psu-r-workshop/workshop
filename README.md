@@ -80,7 +80,7 @@ This overview of data wrangling will show you how to:
 
 <hr>
 
-<h4><span><a href="#Top"><button type="button">Top</button></a></span></h4>
+<h4><span><a href="#Top"><img src="assets/images/up_arrow.png"  style="width:42px;height:42px;"></a></span></h4>
 
 <a id="Management"></a>
 ### Data Management and Research Reproducibility
