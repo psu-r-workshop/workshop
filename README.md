@@ -30,8 +30,8 @@ Statistical Data Analyst
 
 <img src="assets/images/tyler_pic.jfif" width="200" height="200">
 
-[Tyler Bruce Garner](https://libraries.psu.edu/directory/tbg5023)
-Graduate Assistant - Statistical Data Analysis Consultant<br>
+[Tyler Bruce Garner](https://libraries.psu.edu/directory/tbg5023)<br>
+Graduate Assistant - Statistical Data Analysis Consultant
   
 </center>
 
