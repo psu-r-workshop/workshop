@@ -104,6 +104,13 @@ Participants will use their reproducible, project-based data analysis workflow t
 
 Implementing statistical analyses to understand trends and differences in data is an important tool for effective research communication. This workshop will cover exploratory data analysis, including methods for testing hypotheses, computing confidence intervals and reporting results. Participants will test and apply their R programming skills to basic data analyses.
 
+Methods that will be covered include:
+
+- Parametric tests (t-test and ANOVA)
+- Non-parametric tests (Kruskal-Wallis and Chi-square)
+- Linear regression
+- Survey Analysis
+
 <hr>
 
 <a id="Bring"></a>
