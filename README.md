@@ -1,4 +1,4 @@
-<a name="top"></a>
+<a name="Top"></a>
 
 ![Flier](assets/images/70CF419E-6207-43B5-961A-C33B374A4D20.jpeg)
 
@@ -55,7 +55,7 @@ This overview of data wrangling will show you how to:
 
 <hr>
 
-<h4><span>Top</span></h4>
+<h4><span><a href="Top">Top</a></span></h4>
 
 <a id="Management"></a>
 ### Data Management and Research Reproducibility
