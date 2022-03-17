@@ -4,10 +4,10 @@ Welcome to the Research Reproducibility in R Workshop supported by the Penn Stat
 
 **Schedule**
 - <a href="#Basics">Monday, March 21, 1–2 p.m. — Basics of R and RStudio</a>
-- <a href="#Wrangling">Wednesday, March 23, 1–3 p.m. — Data Wrangling in R</a>
-- <a href="#Management">Wednesday, March 30, 1–3 p.m. — Data Management and Research Reproducibility in RStudio</a>
-- <a href="#Visualization">Wednesday, April 6, 1–3 p.m. — Data Visualization in R</a>
-- <a href="#Statistical">Wednesday, April 13, 1–3 p.m. — Statistical Data Analysis in R</a>
+- <a href="#Wrangling">Wednesday, March 23, 1–3 p.m. — Data Wrangling</a>
+- <a href="#Management">Wednesday, March 30, 1–3 p.m. — Data Management and Research Reproducibility </a>
+- <a href="#Visualization">Wednesday, April 6, 1–3 p.m. — Data Visualization </a>
+- <a href="#Statistical">Wednesday, April 13, 1–3 p.m. — Statistical Data Analysis</a>
 - <a href="#Bring">Wednesday, April 20, TBD — Bring Your Data Day!</a>
 
 **Organizers**
@@ -37,7 +37,7 @@ In this optional indroductory session we will:
 
 <hr>
 
-### <a id="Wrangling">Data Wrangling in R</a>
+### <a id="Wrangling">Data Wrangling</a>
 
 This overview of data wrangling will show you how to:
 
@@ -48,7 +48,7 @@ This overview of data wrangling will show you how to:
 
 <hr>
 
-### <a id="Management">Data Management and Research Reproducibility in RStudio</a>
+### <a id="Management">Data Management and Research Reproducibility</a>
 
 This session will provide an overview of data management strategies for a reproducible analysis and output workflow to facilitate transparent and reproducible research and support open data sharing. Topics include:
 
@@ -61,7 +61,7 @@ Additionally, data management and reproducibility strategies from the previous s
 
 <hr>
 
-### <a id="Visualization">Data Visualization in R</a>
+### <a id="Visualization">Data Visualization</a>
 
 This session focuses on data communication. Because sharing research results is a critical step in any research project, effective communication is vital. Tools such as RMarkdown and ggplot2 can be used to document data exploration, analysis and visualization steps and create meaningful data visualizations. This workshop will show you how to:
 
@@ -72,7 +72,7 @@ Participants will use their reproducible, project-based data analysis workflow t
 
 <hr>
 
-### <a id="Statistical">Statistical Data Analysis in R</a>
+### <a id="Statistical">Statistical Data Analysis</a>
 
 Implementing statistical analyses to understand trends and differences in data is an important tool for effective research communication. This workshop will cover exploratory data analysis, including methods for testing hypotheses, computing confidence intervals and reporting results. Participants will test and apply their R programming skills to basic data analyses.
 
