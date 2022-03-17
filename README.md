@@ -27,7 +27,7 @@ The workshops are open to Penn State graduate students, postdoctoral scholars, s
 </div>
 <div style="display:inline-block;">
   <p>
-    &emsp;<a href="https://libraries.psu.edu/directory/bde125">Briana Ezray Wham</a><br>
+    &emsp;<font size=5><a href="https://libraries.psu.edu/directory/bde125">Briana Ezray Wham</a><br></font>
     &emsp;Research Data Librarian - STEM<br>
   </p>
 </div>
@@ -39,7 +39,7 @@ The workshops are open to Penn State graduate students, postdoctoral scholars, s
 </div>
 <div style="display:inline-block;">
   <p>
-    &emsp;<a href="https://libraries.psu.edu/directory/jpv5319">Jennifer Valcin</a><br>
+    &emsp;<font size=5><a href="https://libraries.psu.edu/directory/jpv5319">Jennifer Valcin</a><br></font>
     &emsp;Statistical Data Analyst<br>
   </p>
 </div>
@@ -51,7 +51,7 @@ The workshops are open to Penn State graduate students, postdoctoral scholars, s
 </div>
 <div style="display:inline-block;">
   <p>
-    &emsp;<a href="https://libraries.psu.edu/directory/tbg5023">Tyler Bruce Garner</a><br>
+    &emsp;<font size=5><a href="https://libraries.psu.edu/directory/tbg5023">Tyler Bruce Garner</a><br></font>
     &emsp;Graduate Assistant - Statistical Data Analysis Consultant<br>
   </p>
 </div>
@@ -60,10 +60,12 @@ The workshops are open to Penn State graduate students, postdoctoral scholars, s
 
 **Resources**
 
+- [Installing R, RStudio, and Git]()
 - [Data sets]()
 - [Code]()
 - [Slides]()
 - [Recordings]()
+- [Exercies]()
 
 [Schedule an Appointment for Office Hours](https://outlook.office365.com/owa/calendar/RWorkshopSeriesOfficeHours@PennStateOffice365.onmicrosoft.com/bookings/s/hmg205E8LUKdnPoi-BVCGA2)
 
