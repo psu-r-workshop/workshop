@@ -18,6 +18,20 @@ Welcome to the Research Reproducibility in R Workshop supported by the Penn Stat
 **Organizers**
 <br>
 
+<div>
+<div style="float: left">
+<img src="assets/images/briana_wham.jpg" width="200" height="250" />
+</div>
+<div>
+Text content goes here
+</div>
+</div>
+
+
+
+
+
+
 <img src="assets/images/briana_wham.jpg" width="200" height="250">
 
 [Briana Ezray Wham](https://libraries.psu.edu/directory/bde125)<br>
