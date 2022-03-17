@@ -61,6 +61,7 @@ In this optional indroductory session we will:
 - Discuss the utility of using R for reproducible research
 
 <hr>
+<h4><span><a href="#Top">Top</a></span></h4>
 
 <a id="Wrangling"></a>
 ### Data Wrangling
