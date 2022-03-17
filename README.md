@@ -27,8 +27,8 @@ The workshops are open to Penn State graduate students, postdoctoral scholars, s
 </div>
 <div style="display:inline-block;">
   <p>
-    <a href="https://libraries.psu.edu/directory/bde125">Briana Ezray Wham</a><br>
-    Research Data Librarian - STEM<br>
+    &emsp;<a href="https://libraries.psu.edu/directory/bde125">Briana Ezray Wham</a><br>
+    &emsp;Research Data Librarian - STEM<br>
   </p>
 </div>
 
@@ -39,8 +39,8 @@ The workshops are open to Penn State graduate students, postdoctoral scholars, s
 </div>
 <div style="display:inline-block;">
   <p>
-    <a href="https://libraries.psu.edu/directory/jpv5319">Jennifer Valcin</a><br>
-    Statistical Data Analyst<br>
+    &emsp;<a href="https://libraries.psu.edu/directory/jpv5319">Jennifer Valcin</a><br>
+    &emsp;Statistical Data Analyst<br>
   </p>
 </div>
 
@@ -51,8 +51,8 @@ The workshops are open to Penn State graduate students, postdoctoral scholars, s
 </div>
 <div style="display:inline-block;">
   <p>
-    <a href="https://libraries.psu.edu/directory/tbg5023">Tyler Bruce Garner</a><br>
-    Graduate Assistant - Statistical Data Analysis Consultant<br>
+    &emsp;<a href="https://libraries.psu.edu/directory/tbg5023">Tyler Bruce Garner</a><br>
+    &emsp;Graduate Assistant - Statistical Data Analysis Consultant<br>
   </p>
 </div>
   
