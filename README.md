@@ -45,7 +45,6 @@ Statistical Data Analyst<br>
 Graduate Assistant - Statistical Data Analysis Consultant<br>
 <br>
 
-
 **Resources**
 
 - [Data sets]()
@@ -62,34 +61,34 @@ Graduate Assistant - Statistical Data Analysis Consultant<br>
 
 In this optional indroductory session we will:
 
-- Introduce to R and RStudio
-- Walk through the platform interface
-- Discuss the utility of using the softwares for reproducible research
+- Install and introduce R and RStudio
+- Walk through the RStudio integrated development environment (IDE)
+- Discuss the utility of using R for reproducible research
 
 <hr>
 
 <a id="Wrangling"></a>
 ### Data Wrangling
 
-This overview of data wrangling will show you how to:
+This overview of data wrangling will overview the basics of RStudio and introduce the tidyverse to show you how to:
 
-- Use basic indexing and functions such as setting a working directory and loading data and packages
+- Use basic indexing and functions, such as setting a working directory and loading data and packages
 - Wrangle (manage, clean, and transform) data into tidy format or to create new variables
 - Handle string and date/time data
 - Find resources to support the analysis you would like to conduct
 
 <hr>
 
-<h4><span><a href="#Top"><img src="assets/images/up_arrow.png"  style="width:40px;height:29px;"></a></span></h4>
+<h4><span><a href="#Top"><img src="assets/images/up_arrow.png" style="width:40px;height:29px;"></a></span></h4>
 
 <a id="Management"></a>
 ### Data Management and Research Reproducibility
 
-This session will provide an overview of data management strategies for a reproducible analysis and output workflow to facilitate transparent and reproducible research and support open data sharing. Topics include:
+In this session  you will be provided an overview of data management strategies for a reproducible analysis and output workflow to facilitate transparent and reproducible research to support open data sharing. Topics include:
 
 - Best practices for code documentation, file organization, naming, and versioning
 - How to connect RStudio to Git and GitHub
-- How to implement a reproducible, project-based data analysis and output workflow                                                                                     
+- How to implement a reproducible, project-based data analysis and output workflow                                                                           
 - How to document data exploration, analysis and visualization in publishable documents using RMarkdown
 
 Additionally, data management and reproducibility strategies from the previous sessions will be applied to the R workflow.
