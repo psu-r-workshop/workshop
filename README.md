@@ -10,6 +10,11 @@ Welcome to the Research Reproducibility in R Workshop supported by the Penn Stat
 - <a href="#Statistical">Wednesday, April 13, 1–3 p.m. — Statistical Data Analysis</a>
 - <a href="#Bring">Wednesday, April 20, TBD — Bring Your Data Day!</a>
 
+| Session | Date |
+| ------- | ---- |
+| <a href="#Basics">Basics of R and RStudio</a> | Monday, March 21, 1–2 p.m. |
+| <a href="#Wrangling">Data Wrangling</a> | Wednesday, March 23, 1–3 p.m. |
+
 **Organizers**
 
 - [Briana Ezray Wham](https://libraries.psu.edu/directory/bde125) - Research Data Librarian - STEM
