@@ -17,7 +17,6 @@ Welcome to the Research Reproducibility in R Workshop supported by the Penn Stat
 
 **Organizers**
 <br>
-<p align="center">
 
 <img src="assets/images/briana_wham.jpg" width="200" height="250">
 
@@ -37,7 +36,6 @@ Statistical Data Analyst<br>
 Graduate Assistant - Statistical Data Analysis Consultant<br>
 <br>
 
-</p>
 
 **Resources**
 
