@@ -18,7 +18,7 @@ Welcome to the Research Reproducibility in R Workshop supported by the Penn Stat
 **Organizers**
 <br>
 
-![Briana](assets/images/briana_wham.jpg =200x250)
+<img src="assets/images/briana_wham.jpg" width="200" height="250">
 [Briana Ezray Wham](https://libraries.psu.edu/directory/bde125) - Research Data Librarian - STEM
 
 ![Jennifer](assets/images/jennifer_valcin.jpg =200x220)
