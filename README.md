@@ -16,13 +16,15 @@ Welcome to the Research Reproducibility in R Workshop supported by the Penn Stat
 | <a href="#Bring">Bring Your Data Day!</a> | Wednesday, April 20 | TBD |
 
 **Organizers**
-![Briana](assets/images/briana_wham.jpg)
+<br>
+
+![Briana](assets/images/briana_wham.jpg =200x250)
 [Briana Ezray Wham](https://libraries.psu.edu/directory/bde125) - Research Data Librarian - STEM
 
-![Jennifer](assets/images/jennifer_valcin.jpg)
+![Jennifer](assets/images/jennifer_valcin.jpg =200x220)
 [Jennifer Valcin](https://libraries.psu.edu/directory/jpv5319) - Statistical Data Analyst
 
-![Tyler](assets/images/tyler_pic.jfif)
+![Tyler](assets/images/tyler_pic.jfif =200x200)
 [Tyler Bruce Garner](https://libraries.psu.edu/directory/tbg5023) - Graduate Assistant - Statistical Data Analysis Consultant
 
 **Resources**
