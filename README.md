@@ -19,18 +19,13 @@ Welcome to the Research Reproducibility in R Workshop supported by the Penn Stat
 <br>
 
 <div>
-  <div style="float: right">
+  <div style="float: left">
     <img src="assets/images/briana_wham.jpg" width="200" height="250" />
     </div>
     <div>
     Text content goes here
   </div>
 </div>
-
-
-
-
-
 
 <img src="assets/images/briana_wham.jpg" width="200" height="250">
 
